@@ -26,3 +26,6 @@ const items=[1,[2,[3,[4]]]]
 // the flattenDeep() is a method contained in the Lodash package that returns a  normal array
 const newItems=_.flattenDeep(items)
 console.log(newItems)
+
+
+// creating a gitignore file prevents us from pushing the node modules to github since the files are always large in size

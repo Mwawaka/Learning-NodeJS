@@ -1,0 +1,2 @@
+/node_modules
+# This will ignore the node modules when we push code to our repo in GitHub
